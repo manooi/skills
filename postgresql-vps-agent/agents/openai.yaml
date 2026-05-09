@@ -1,0 +1,8 @@
+interface:
+  display_name: "PostgreSQL VPS Agent"
+  short_description: "Secure PostgreSQL VPS setup and cleanup"
+  brand_color: "#336791"
+  default_prompt: "Use $postgresql-vps-agent to configure PostgreSQL on a VPS for secure remote access, TLS, user setup, verification, or cleanup."
+
+policy:
+  allow_implicit_invocation: true
